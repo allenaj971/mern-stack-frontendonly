@@ -10,8 +10,8 @@ node_modules/
 *.cert
 *.key
 
-# production
-/build
+# # production
+# /build
 
 # misc
 .DS_Store
